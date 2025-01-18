@@ -3,7 +3,7 @@ klasifikasi gambar dari training hingga prediksi gambar dengan cifar dan CNN
 
   <p align="center">
   <a href="https://colab.research.google.com/github/CloneTerial/image-classification/blob/main/image-classification.ipynb">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" alt="open in colab" width="50">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" alt="colab" width="50">
   </a>
 </p>
 
