@@ -5,6 +5,9 @@ klasifikasi gambar dari training hingga prediksi gambar dengan cifar dan CNN
   <a href="https://colab.research.google.com/github/CloneTerial/image-classification/blob/main/image-classification.ipynb">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" alt="colab" width="50">
   </a>
+      <a href="https://www.python.org/">
+    <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="python" width="33">
+  </a>
 </p>
 
 # penggunaan colab  
