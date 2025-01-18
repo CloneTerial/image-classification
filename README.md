@@ -1,9 +1,7 @@
 # image-classification
 klasifikasi gambar dari training hingga prediksi gambar dengan cifar dan CNN  
 <p align="center">
-  <a href="https://colab.research.google.com/">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="50">
-  </a>
+  <a href=\"https://colab.research.google.com/github/CloneTerial/image-classification/blob/main/image-classification.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 </p>
 
 # penggunaan colab  
