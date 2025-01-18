@@ -16,6 +16,7 @@ jika ingin melihat/mempelajari proses step by step jalankan nomor 1 hingga 6
 namun juga kamu bisa langsung melakukan start semua kode di nomor 7  
 
 nomor 8 digunakan jika kamu ingin menggunakan file di banding kode yang sudah ada di dalam colab 
+
 note: pastikan file di github ini di unggah kedalam colab
 
 # penggunaan dengan file 
